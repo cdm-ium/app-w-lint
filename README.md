@@ -13,9 +13,7 @@ This project uses [semistandard](https://github.com/standard/semistandard) which
 
 You can install the `semistandard` npm package with:
 
-    ```
     npm install semistandard --save devr`
-    ```
 
 ## Update `package.json` with to use semistandard commands
 
