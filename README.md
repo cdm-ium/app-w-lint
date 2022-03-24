@@ -19,7 +19,6 @@ You can install the `semistandard` npm package with:
 
 ## Update `package.json` with to use semistandard commands
 
-    ```
     ...
     "scripts": {
       ....
@@ -27,7 +26,6 @@ You can install the `semistandard` npm package with:
       "format": "semistandard --fix --env jest"
     },
     ...
-    ```
 
 ## Update your edittor with the appropriate plugin
 
@@ -37,3 +35,8 @@ Follow: https://standardjs.com/#are-there-text-editor-plugins for instructions f
 
 You can now run lint manually with `npm run lint` to see errors and `npm run format` to attempt to fix errors. If you
 also added a plugin for your code editor, your editor should also tell you when there are lint errors automatically.
+
+## Additonal config
+
+Even though this project uses the `semistandard` package, the configuration options are the same as for standard so you
+can get additional information about how to do things and supported flags at the standard [website](https://standardjs.com/).
