@@ -29,7 +29,7 @@ You can install the `semistandard` npm package with:
 
 ## Update your edittor with the appropriate plugin
 
-Follow: https://standardjs.com/#are-there-text-editor-plugins for instructions for your environment.
+Follow: [the standard js instructions](https://standardjs.com/#are-there-text-editor-plugins) for instructions for your environment.
 
 ## Profit
 
