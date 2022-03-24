@@ -31,7 +31,7 @@ Follow: [the standard js instructions](https://standardjs.com/#are-there-text-ed
 
 ## Profit
 
-You can now run lint manually with `npm run lint` to see errors and `npm run format` to attempt to fix errors. If you
+You can now run lint manually from a terminal with `npm run lint` to see errors and `npm run format` to attempt to fix errors. If you
 also added a plugin for your code editor, your editor should also tell you when there are lint errors automatically.
 
 ## Additonal config
